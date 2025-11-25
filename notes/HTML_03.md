@@ -1,9 +1,9 @@
 # HTML_03
 
 ## 索引
-- [HTML图像- 图像标签（`<img>`）和源属性（`Src`）](#html图像---图像标签img和源属性src)
-- [HTML图像-Alt属性](html图像---alt属性)
-- [HTML 图像- 设置图像的高度与宽度](#html图像---设置图像的高度与宽度)
+- [HTML图像- 图像标签（`<img>`）和源属性（`Src`）](#html图像--图像标签img和源属性src)
+- [HTML图像-Alt属性](html图像-alt属性)
+- [HTML图像-设置图像的高度与宽度](#html图像-设置图像的高度与宽度)
 - [HTML列表](#html列表)
 - [HTML区块](#html区块)
   
@@ -20,7 +20,7 @@
 - `alt`属性用来为图像定义一串预备的可替换的文本。
 - `<img src="boat.gif" alt="Big Boat">`
 
-## *HTML 图像- 设置图像的高度与宽度*
+## *HTML图像-设置图像的高度与宽度*
 - `height`（高度）与`width`（宽度）属性用于设置图像的高度与宽度。
 - 属性值默认单位为像素
 - `<img src="pulpit.jpg" alt="Pulpit rock" width="304" height="228">`
@@ -80,6 +80,10 @@ HTML 支持有序、无序和定义列表:
 - `<ul>`
   
   `<li>Coffee</li>`
+  
+  `<li>Milk</li>`
+  
+  `</ul>`
 
 ## *HTML区块*
 - HTML`<div>`和`<span>`:
@@ -105,9 +109,7 @@ HTML 支持有序、无序和定义列表:
 - HTML`<span>`元素:
 
   用来组合文档中的行内元素， 内联元素
-  `<li>Milk</li>`
   
-  `</ul>`
 
 
  
